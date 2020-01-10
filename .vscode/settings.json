@@ -13,7 +13,7 @@
         "npm-debug.log": true
     },
   
-    "editor.fontFamily": "Roboto Mono",
+    "editor.fontFamily": "Ubuntu Mono",
     "editor.fontSize": 16,
     "editor.cursorBlinking": "solid",
     "editor.showUnused": false,
@@ -39,7 +39,8 @@
   
     "problems.decorations.enabled": false,
   
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "monospace",
 
     "workbench.colorCustomizations": {
       "terminal.background":"#000000",
